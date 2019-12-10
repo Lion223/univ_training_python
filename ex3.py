@@ -96,16 +96,3 @@ def hedge(text):
         result += w + ' '
     return result
 print(hedge(some_text))
-        
-
-
-
-
-
-
-
-
-
-
-
-
