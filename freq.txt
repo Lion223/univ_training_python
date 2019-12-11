@@ -1,0 +1,11 @@
+hear 5
+hear 5
+lie 3
+lie 3
+hear 5
+defenceless 2
+lie 3
+defenceless 2
+hear 5
+mine 1
+hear 5
